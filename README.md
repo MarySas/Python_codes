@@ -1,4 +1,4 @@
-# Python_codes
+# Python codes
 Project in Python. Displays the codes that I worked on during my Career Foundry Data Analyst Course
 
 ## Instacart Project
